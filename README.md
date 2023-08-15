@@ -1,5 +1,6 @@
-# **FLEAT, Palau_2016: DMD and iLRDMD Field and Error Plots**
-## **U Velocity**
+#**FLEAT, Palau_2016: DMD and iLRDMD Field and Error Plots**
+
+##**U Velocity**
 
 ## **V Velocity**
 

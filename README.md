@@ -1,5 +1,10 @@
-# Palau_2016_
+# **FLEAT, Palau_2016: DMD and iLRDMD Field and Error Plots**
+## **U Velocity**
 
-    
-[output_v4.webm](https://github.com/vara-95/Palau_2016_/assets/61605177/e00b50ad-399a-497d-8bcf-022a6d57ca2c)
+## **V Velocity**
 
+## **Temperature**
+
+## **Salinity**
+
+[Salinity_DMD_iLRDMD_Predictions.webm](https://github.com/vara-95/Palau_2016_/assets/61605177/f84303be-c09a-4bfb-a84e-8702eda40970)
